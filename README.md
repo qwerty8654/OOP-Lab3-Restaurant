@@ -8,7 +8,6 @@
 
 - Copy constructor
 - Move constructor
-- використання this
 - const об'єкти
 - static поле та метод
 - перевантаження операторів
